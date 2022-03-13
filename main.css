@@ -1,0 +1,12 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.prueba {
+    height: 300px;
+    background-color: #c3c3c3;
+}
